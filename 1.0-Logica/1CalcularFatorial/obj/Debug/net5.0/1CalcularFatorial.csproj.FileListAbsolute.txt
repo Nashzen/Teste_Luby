@@ -1,0 +1,16 @@
+C:\Users\leo-s\Documents\GitHub\TesteLuby\1CalcularFatorial\bin\Debug\net5.0\1CalcularFatorial.exe
+C:\Users\leo-s\Documents\GitHub\TesteLuby\1CalcularFatorial\bin\Debug\net5.0\1CalcularFatorial.deps.json
+C:\Users\leo-s\Documents\GitHub\TesteLuby\1CalcularFatorial\bin\Debug\net5.0\1CalcularFatorial.runtimeconfig.json
+C:\Users\leo-s\Documents\GitHub\TesteLuby\1CalcularFatorial\bin\Debug\net5.0\1CalcularFatorial.runtimeconfig.dev.json
+C:\Users\leo-s\Documents\GitHub\TesteLuby\1CalcularFatorial\bin\Debug\net5.0\1CalcularFatorial.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\1CalcularFatorial\bin\Debug\net5.0\ref\1CalcularFatorial.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\1CalcularFatorial\bin\Debug\net5.0\1CalcularFatorial.pdb
+C:\Users\leo-s\Documents\GitHub\TesteLuby\1CalcularFatorial\obj\Debug\net5.0\1CalcularFatorial.csprojAssemblyReference.cache
+C:\Users\leo-s\Documents\GitHub\TesteLuby\1CalcularFatorial\obj\Debug\net5.0\1CalcularFatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo-s\Documents\GitHub\TesteLuby\1CalcularFatorial\obj\Debug\net5.0\1CalcularFatorial.AssemblyInfoInputs.cache
+C:\Users\leo-s\Documents\GitHub\TesteLuby\1CalcularFatorial\obj\Debug\net5.0\1CalcularFatorial.AssemblyInfo.cs
+C:\Users\leo-s\Documents\GitHub\TesteLuby\1CalcularFatorial\obj\Debug\net5.0\1CalcularFatorial.csproj.CoreCompileInputs.cache
+C:\Users\leo-s\Documents\GitHub\TesteLuby\1CalcularFatorial\obj\Debug\net5.0\1CalcularFatorial.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\1CalcularFatorial\obj\Debug\net5.0\ref\1CalcularFatorial.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\1CalcularFatorial\obj\Debug\net5.0\1CalcularFatorial.pdb
+C:\Users\leo-s\Documents\GitHub\TesteLuby\1CalcularFatorial\obj\Debug\net5.0\1CalcularFatorial.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\leo-s\Documents\GitHub\TesteLuby\10ObterElementosFaltantes\bin\Debug\net5.0\10ObterElementosFaltantes.exe
+C:\Users\leo-s\Documents\GitHub\TesteLuby\10ObterElementosFaltantes\bin\Debug\net5.0\10ObterElementosFaltantes.deps.json
+C:\Users\leo-s\Documents\GitHub\TesteLuby\10ObterElementosFaltantes\bin\Debug\net5.0\10ObterElementosFaltantes.runtimeconfig.json
+C:\Users\leo-s\Documents\GitHub\TesteLuby\10ObterElementosFaltantes\bin\Debug\net5.0\10ObterElementosFaltantes.runtimeconfig.dev.json
+C:\Users\leo-s\Documents\GitHub\TesteLuby\10ObterElementosFaltantes\bin\Debug\net5.0\10ObterElementosFaltantes.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\10ObterElementosFaltantes\bin\Debug\net5.0\ref\10ObterElementosFaltantes.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\10ObterElementosFaltantes\bin\Debug\net5.0\10ObterElementosFaltantes.pdb
+C:\Users\leo-s\Documents\GitHub\TesteLuby\10ObterElementosFaltantes\obj\Debug\net5.0\10ObterElementosFaltantes.csprojAssemblyReference.cache
+C:\Users\leo-s\Documents\GitHub\TesteLuby\10ObterElementosFaltantes\obj\Debug\net5.0\10ObterElementosFaltantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo-s\Documents\GitHub\TesteLuby\10ObterElementosFaltantes\obj\Debug\net5.0\10ObterElementosFaltantes.AssemblyInfoInputs.cache
+C:\Users\leo-s\Documents\GitHub\TesteLuby\10ObterElementosFaltantes\obj\Debug\net5.0\10ObterElementosFaltantes.AssemblyInfo.cs
+C:\Users\leo-s\Documents\GitHub\TesteLuby\10ObterElementosFaltantes\obj\Debug\net5.0\10ObterElementosFaltantes.csproj.CoreCompileInputs.cache
+C:\Users\leo-s\Documents\GitHub\TesteLuby\10ObterElementosFaltantes\obj\Debug\net5.0\10ObterElementosFaltantes.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\10ObterElementosFaltantes\obj\Debug\net5.0\ref\10ObterElementosFaltantes.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\10ObterElementosFaltantes\obj\Debug\net5.0\10ObterElementosFaltantes.pdb
+C:\Users\leo-s\Documents\GitHub\TesteLuby\10ObterElementosFaltantes\obj\Debug\net5.0\10ObterElementosFaltantes.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\leo-s\Documents\GitHub\TesteLuby\8BuscarPessoa\bin\Debug\net5.0\8BuscarPessoa.exe
+C:\Users\leo-s\Documents\GitHub\TesteLuby\8BuscarPessoa\bin\Debug\net5.0\8BuscarPessoa.deps.json
+C:\Users\leo-s\Documents\GitHub\TesteLuby\8BuscarPessoa\bin\Debug\net5.0\8BuscarPessoa.runtimeconfig.json
+C:\Users\leo-s\Documents\GitHub\TesteLuby\8BuscarPessoa\bin\Debug\net5.0\8BuscarPessoa.runtimeconfig.dev.json
+C:\Users\leo-s\Documents\GitHub\TesteLuby\8BuscarPessoa\bin\Debug\net5.0\8BuscarPessoa.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\8BuscarPessoa\bin\Debug\net5.0\ref\8BuscarPessoa.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\8BuscarPessoa\bin\Debug\net5.0\8BuscarPessoa.pdb
+C:\Users\leo-s\Documents\GitHub\TesteLuby\8BuscarPessoa\obj\Debug\net5.0\8BuscarPessoa.csprojAssemblyReference.cache
+C:\Users\leo-s\Documents\GitHub\TesteLuby\8BuscarPessoa\obj\Debug\net5.0\8BuscarPessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo-s\Documents\GitHub\TesteLuby\8BuscarPessoa\obj\Debug\net5.0\8BuscarPessoa.AssemblyInfoInputs.cache
+C:\Users\leo-s\Documents\GitHub\TesteLuby\8BuscarPessoa\obj\Debug\net5.0\8BuscarPessoa.AssemblyInfo.cs
+C:\Users\leo-s\Documents\GitHub\TesteLuby\8BuscarPessoa\obj\Debug\net5.0\8BuscarPessoa.csproj.CoreCompileInputs.cache
+C:\Users\leo-s\Documents\GitHub\TesteLuby\8BuscarPessoa\obj\Debug\net5.0\8BuscarPessoa.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\8BuscarPessoa\obj\Debug\net5.0\ref\8BuscarPessoa.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\8BuscarPessoa\obj\Debug\net5.0\8BuscarPessoa.pdb
+C:\Users\leo-s\Documents\GitHub\TesteLuby\8BuscarPessoa\obj\Debug\net5.0\8BuscarPessoa.genruntimeconfig.cache

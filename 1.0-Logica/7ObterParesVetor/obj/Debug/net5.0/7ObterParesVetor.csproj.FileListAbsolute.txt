@@ -1,0 +1,16 @@
+C:\Users\leo-s\Documents\GitHub\TesteLuby\7ObterParesVetor\bin\Debug\net5.0\7ObterParesVetor.exe
+C:\Users\leo-s\Documents\GitHub\TesteLuby\7ObterParesVetor\bin\Debug\net5.0\7ObterParesVetor.deps.json
+C:\Users\leo-s\Documents\GitHub\TesteLuby\7ObterParesVetor\bin\Debug\net5.0\7ObterParesVetor.runtimeconfig.json
+C:\Users\leo-s\Documents\GitHub\TesteLuby\7ObterParesVetor\bin\Debug\net5.0\7ObterParesVetor.runtimeconfig.dev.json
+C:\Users\leo-s\Documents\GitHub\TesteLuby\7ObterParesVetor\bin\Debug\net5.0\7ObterParesVetor.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\7ObterParesVetor\bin\Debug\net5.0\ref\7ObterParesVetor.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\7ObterParesVetor\bin\Debug\net5.0\7ObterParesVetor.pdb
+C:\Users\leo-s\Documents\GitHub\TesteLuby\7ObterParesVetor\obj\Debug\net5.0\7ObterParesVetor.csprojAssemblyReference.cache
+C:\Users\leo-s\Documents\GitHub\TesteLuby\7ObterParesVetor\obj\Debug\net5.0\7ObterParesVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo-s\Documents\GitHub\TesteLuby\7ObterParesVetor\obj\Debug\net5.0\7ObterParesVetor.AssemblyInfoInputs.cache
+C:\Users\leo-s\Documents\GitHub\TesteLuby\7ObterParesVetor\obj\Debug\net5.0\7ObterParesVetor.AssemblyInfo.cs
+C:\Users\leo-s\Documents\GitHub\TesteLuby\7ObterParesVetor\obj\Debug\net5.0\7ObterParesVetor.csproj.CoreCompileInputs.cache
+C:\Users\leo-s\Documents\GitHub\TesteLuby\7ObterParesVetor\obj\Debug\net5.0\7ObterParesVetor.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\7ObterParesVetor\obj\Debug\net5.0\ref\7ObterParesVetor.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\7ObterParesVetor\obj\Debug\net5.0\7ObterParesVetor.pdb
+C:\Users\leo-s\Documents\GitHub\TesteLuby\7ObterParesVetor\obj\Debug\net5.0\7ObterParesVetor.genruntimeconfig.cache

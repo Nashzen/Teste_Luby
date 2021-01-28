@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "10ObterElementosFaltantes/1.0.0": {
+        "runtime": {
+          "10ObterElementosFaltantes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10ObterElementosFaltantes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

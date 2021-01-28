@@ -1,0 +1,16 @@
+C:\Users\leo-s\Documents\GitHub\TesteLuby\9TransformarEmMatriz\bin\Debug\net5.0\9TransformarEmMatriz.exe
+C:\Users\leo-s\Documents\GitHub\TesteLuby\9TransformarEmMatriz\bin\Debug\net5.0\9TransformarEmMatriz.deps.json
+C:\Users\leo-s\Documents\GitHub\TesteLuby\9TransformarEmMatriz\bin\Debug\net5.0\9TransformarEmMatriz.runtimeconfig.json
+C:\Users\leo-s\Documents\GitHub\TesteLuby\9TransformarEmMatriz\bin\Debug\net5.0\9TransformarEmMatriz.runtimeconfig.dev.json
+C:\Users\leo-s\Documents\GitHub\TesteLuby\9TransformarEmMatriz\bin\Debug\net5.0\9TransformarEmMatriz.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\9TransformarEmMatriz\bin\Debug\net5.0\ref\9TransformarEmMatriz.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\9TransformarEmMatriz\bin\Debug\net5.0\9TransformarEmMatriz.pdb
+C:\Users\leo-s\Documents\GitHub\TesteLuby\9TransformarEmMatriz\obj\Debug\net5.0\9TransformarEmMatriz.csprojAssemblyReference.cache
+C:\Users\leo-s\Documents\GitHub\TesteLuby\9TransformarEmMatriz\obj\Debug\net5.0\9TransformarEmMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo-s\Documents\GitHub\TesteLuby\9TransformarEmMatriz\obj\Debug\net5.0\9TransformarEmMatriz.AssemblyInfoInputs.cache
+C:\Users\leo-s\Documents\GitHub\TesteLuby\9TransformarEmMatriz\obj\Debug\net5.0\9TransformarEmMatriz.AssemblyInfo.cs
+C:\Users\leo-s\Documents\GitHub\TesteLuby\9TransformarEmMatriz\obj\Debug\net5.0\9TransformarEmMatriz.csproj.CoreCompileInputs.cache
+C:\Users\leo-s\Documents\GitHub\TesteLuby\9TransformarEmMatriz\obj\Debug\net5.0\9TransformarEmMatriz.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\9TransformarEmMatriz\obj\Debug\net5.0\ref\9TransformarEmMatriz.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\9TransformarEmMatriz\obj\Debug\net5.0\9TransformarEmMatriz.pdb
+C:\Users\leo-s\Documents\GitHub\TesteLuby\9TransformarEmMatriz\obj\Debug\net5.0\9TransformarEmMatriz.genruntimeconfig.cache

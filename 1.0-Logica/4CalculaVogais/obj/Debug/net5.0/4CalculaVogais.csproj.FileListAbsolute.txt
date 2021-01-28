@@ -1,0 +1,16 @@
+C:\Users\leo-s\Documents\GitHub\TesteLuby\4CalculaVogais\obj\Debug\net5.0\4CalculaVogais.csprojAssemblyReference.cache
+C:\Users\leo-s\Documents\GitHub\TesteLuby\4CalculaVogais\obj\Debug\net5.0\4CalculaVogais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo-s\Documents\GitHub\TesteLuby\4CalculaVogais\obj\Debug\net5.0\4CalculaVogais.AssemblyInfoInputs.cache
+C:\Users\leo-s\Documents\GitHub\TesteLuby\4CalculaVogais\obj\Debug\net5.0\4CalculaVogais.AssemblyInfo.cs
+C:\Users\leo-s\Documents\GitHub\TesteLuby\4CalculaVogais\obj\Debug\net5.0\4CalculaVogais.csproj.CoreCompileInputs.cache
+C:\Users\leo-s\Documents\GitHub\TesteLuby\4CalculaVogais\bin\Debug\net5.0\4CalculaVogais.exe
+C:\Users\leo-s\Documents\GitHub\TesteLuby\4CalculaVogais\bin\Debug\net5.0\4CalculaVogais.deps.json
+C:\Users\leo-s\Documents\GitHub\TesteLuby\4CalculaVogais\bin\Debug\net5.0\4CalculaVogais.runtimeconfig.json
+C:\Users\leo-s\Documents\GitHub\TesteLuby\4CalculaVogais\bin\Debug\net5.0\4CalculaVogais.runtimeconfig.dev.json
+C:\Users\leo-s\Documents\GitHub\TesteLuby\4CalculaVogais\bin\Debug\net5.0\4CalculaVogais.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\4CalculaVogais\bin\Debug\net5.0\ref\4CalculaVogais.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\4CalculaVogais\bin\Debug\net5.0\4CalculaVogais.pdb
+C:\Users\leo-s\Documents\GitHub\TesteLuby\4CalculaVogais\obj\Debug\net5.0\4CalculaVogais.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\4CalculaVogais\obj\Debug\net5.0\ref\4CalculaVogais.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\4CalculaVogais\obj\Debug\net5.0\4CalculaVogais.pdb
+C:\Users\leo-s\Documents\GitHub\TesteLuby\4CalculaVogais\obj\Debug\net5.0\4CalculaVogais.genruntimeconfig.cache

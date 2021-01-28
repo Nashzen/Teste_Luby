@@ -1,0 +1,16 @@
+C:\Users\leo-s\Documents\GitHub\TesteLuby\5CalcularDesconto\bin\Debug\net5.0\5CalcularDesconto.exe
+C:\Users\leo-s\Documents\GitHub\TesteLuby\5CalcularDesconto\bin\Debug\net5.0\5CalcularDesconto.deps.json
+C:\Users\leo-s\Documents\GitHub\TesteLuby\5CalcularDesconto\bin\Debug\net5.0\5CalcularDesconto.runtimeconfig.json
+C:\Users\leo-s\Documents\GitHub\TesteLuby\5CalcularDesconto\bin\Debug\net5.0\5CalcularDesconto.runtimeconfig.dev.json
+C:\Users\leo-s\Documents\GitHub\TesteLuby\5CalcularDesconto\bin\Debug\net5.0\5CalcularDesconto.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\5CalcularDesconto\bin\Debug\net5.0\ref\5CalcularDesconto.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\5CalcularDesconto\bin\Debug\net5.0\5CalcularDesconto.pdb
+C:\Users\leo-s\Documents\GitHub\TesteLuby\5CalcularDesconto\obj\Debug\net5.0\5CalcularDesconto.csprojAssemblyReference.cache
+C:\Users\leo-s\Documents\GitHub\TesteLuby\5CalcularDesconto\obj\Debug\net5.0\5CalcularDesconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo-s\Documents\GitHub\TesteLuby\5CalcularDesconto\obj\Debug\net5.0\5CalcularDesconto.AssemblyInfoInputs.cache
+C:\Users\leo-s\Documents\GitHub\TesteLuby\5CalcularDesconto\obj\Debug\net5.0\5CalcularDesconto.AssemblyInfo.cs
+C:\Users\leo-s\Documents\GitHub\TesteLuby\5CalcularDesconto\obj\Debug\net5.0\5CalcularDesconto.csproj.CoreCompileInputs.cache
+C:\Users\leo-s\Documents\GitHub\TesteLuby\5CalcularDesconto\obj\Debug\net5.0\5CalcularDesconto.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\5CalcularDesconto\obj\Debug\net5.0\ref\5CalcularDesconto.dll
+C:\Users\leo-s\Documents\GitHub\TesteLuby\5CalcularDesconto\obj\Debug\net5.0\5CalcularDesconto.pdb
+C:\Users\leo-s\Documents\GitHub\TesteLuby\5CalcularDesconto\obj\Debug\net5.0\5CalcularDesconto.genruntimeconfig.cache
