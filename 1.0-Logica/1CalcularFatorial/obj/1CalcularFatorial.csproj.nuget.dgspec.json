@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leo-s\\Documents\\GitHub\\TesteLuby\\1CalcularFatorial\\1CalcularFatorial.csproj": {}
+    "C:\\Users\\leo-s\\Documents\\GitHub\\Teste_Luby\\1.0-Logica\\1CalcularFatorial\\1CalcularFatorial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leo-s\\Documents\\GitHub\\TesteLuby\\1CalcularFatorial\\1CalcularFatorial.csproj": {
+    "C:\\Users\\leo-s\\Documents\\GitHub\\Teste_Luby\\1.0-Logica\\1CalcularFatorial\\1CalcularFatorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leo-s\\Documents\\GitHub\\TesteLuby\\1CalcularFatorial\\1CalcularFatorial.csproj",
+        "projectUniqueName": "C:\\Users\\leo-s\\Documents\\GitHub\\Teste_Luby\\1.0-Logica\\1CalcularFatorial\\1CalcularFatorial.csproj",
         "projectName": "1CalcularFatorial",
-        "projectPath": "C:\\Users\\leo-s\\Documents\\GitHub\\TesteLuby\\1CalcularFatorial\\1CalcularFatorial.csproj",
+        "projectPath": "C:\\Users\\leo-s\\Documents\\GitHub\\Teste_Luby\\1.0-Logica\\1CalcularFatorial\\1CalcularFatorial.csproj",
         "packagesPath": "C:\\Users\\leo-s\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leo-s\\Documents\\GitHub\\TesteLuby\\1CalcularFatorial\\obj\\",
+        "outputPath": "C:\\Users\\leo-s\\Documents\\GitHub\\Teste_Luby\\1.0-Logica\\1CalcularFatorial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leo-s\\AppData\\Roaming\\NuGet\\NuGet.Config",

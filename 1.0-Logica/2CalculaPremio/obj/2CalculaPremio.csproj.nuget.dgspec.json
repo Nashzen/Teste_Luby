@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leo-s\\Documents\\GitHub\\TesteLuby\\2CalculaPremio\\2CalculaPremio.csproj": {}
+    "C:\\Users\\leo-s\\Documents\\GitHub\\Teste_Luby\\1.0-Logica\\2CalculaPremio\\2CalculaPremio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leo-s\\Documents\\GitHub\\TesteLuby\\2CalculaPremio\\2CalculaPremio.csproj": {
+    "C:\\Users\\leo-s\\Documents\\GitHub\\Teste_Luby\\1.0-Logica\\2CalculaPremio\\2CalculaPremio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leo-s\\Documents\\GitHub\\TesteLuby\\2CalculaPremio\\2CalculaPremio.csproj",
+        "projectUniqueName": "C:\\Users\\leo-s\\Documents\\GitHub\\Teste_Luby\\1.0-Logica\\2CalculaPremio\\2CalculaPremio.csproj",
         "projectName": "2CalculaPremio",
-        "projectPath": "C:\\Users\\leo-s\\Documents\\GitHub\\TesteLuby\\2CalculaPremio\\2CalculaPremio.csproj",
+        "projectPath": "C:\\Users\\leo-s\\Documents\\GitHub\\Teste_Luby\\1.0-Logica\\2CalculaPremio\\2CalculaPremio.csproj",
         "packagesPath": "C:\\Users\\leo-s\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leo-s\\Documents\\GitHub\\TesteLuby\\2CalculaPremio\\obj\\",
+        "outputPath": "C:\\Users\\leo-s\\Documents\\GitHub\\Teste_Luby\\1.0-Logica\\2CalculaPremio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leo-s\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,16 @@
+C:\Users\leo-s\Documents\GitHub\Teste_Luby\1.0-Logica\6CalcularDiferencaData\bin\Debug\net5.0\6CalcularDiferencaData.exe
+C:\Users\leo-s\Documents\GitHub\Teste_Luby\1.0-Logica\6CalcularDiferencaData\bin\Debug\net5.0\6CalcularDiferencaData.deps.json
+C:\Users\leo-s\Documents\GitHub\Teste_Luby\1.0-Logica\6CalcularDiferencaData\bin\Debug\net5.0\6CalcularDiferencaData.runtimeconfig.json
+C:\Users\leo-s\Documents\GitHub\Teste_Luby\1.0-Logica\6CalcularDiferencaData\bin\Debug\net5.0\6CalcularDiferencaData.runtimeconfig.dev.json
+C:\Users\leo-s\Documents\GitHub\Teste_Luby\1.0-Logica\6CalcularDiferencaData\bin\Debug\net5.0\6CalcularDiferencaData.dll
+C:\Users\leo-s\Documents\GitHub\Teste_Luby\1.0-Logica\6CalcularDiferencaData\bin\Debug\net5.0\ref\6CalcularDiferencaData.dll
+C:\Users\leo-s\Documents\GitHub\Teste_Luby\1.0-Logica\6CalcularDiferencaData\bin\Debug\net5.0\6CalcularDiferencaData.pdb
+C:\Users\leo-s\Documents\GitHub\Teste_Luby\1.0-Logica\6CalcularDiferencaData\obj\Debug\net5.0\6CalcularDiferencaData.csprojAssemblyReference.cache
+C:\Users\leo-s\Documents\GitHub\Teste_Luby\1.0-Logica\6CalcularDiferencaData\obj\Debug\net5.0\6CalcularDiferencaData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo-s\Documents\GitHub\Teste_Luby\1.0-Logica\6CalcularDiferencaData\obj\Debug\net5.0\6CalcularDiferencaData.AssemblyInfoInputs.cache
+C:\Users\leo-s\Documents\GitHub\Teste_Luby\1.0-Logica\6CalcularDiferencaData\obj\Debug\net5.0\6CalcularDiferencaData.AssemblyInfo.cs
+C:\Users\leo-s\Documents\GitHub\Teste_Luby\1.0-Logica\6CalcularDiferencaData\obj\Debug\net5.0\6CalcularDiferencaData.csproj.CoreCompileInputs.cache
+C:\Users\leo-s\Documents\GitHub\Teste_Luby\1.0-Logica\6CalcularDiferencaData\obj\Debug\net5.0\6CalcularDiferencaData.dll
+C:\Users\leo-s\Documents\GitHub\Teste_Luby\1.0-Logica\6CalcularDiferencaData\obj\Debug\net5.0\ref\6CalcularDiferencaData.dll
+C:\Users\leo-s\Documents\GitHub\Teste_Luby\1.0-Logica\6CalcularDiferencaData\obj\Debug\net5.0\6CalcularDiferencaData.pdb
+C:\Users\leo-s\Documents\GitHub\Teste_Luby\1.0-Logica\6CalcularDiferencaData\obj\Debug\net5.0\6CalcularDiferencaData.genruntimeconfig.cache

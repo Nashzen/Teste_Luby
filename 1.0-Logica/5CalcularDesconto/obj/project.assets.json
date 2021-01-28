@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leo-s\\Documents\\GitHub\\TesteLuby\\5CalcularDesconto\\5CalcularDesconto.csproj",
+      "projectUniqueName": "C:\\Users\\leo-s\\Documents\\GitHub\\Teste_Luby\\1.0-Logica\\5CalcularDesconto\\5CalcularDesconto.csproj",
       "projectName": "5CalcularDesconto",
-      "projectPath": "C:\\Users\\leo-s\\Documents\\GitHub\\TesteLuby\\5CalcularDesconto\\5CalcularDesconto.csproj",
+      "projectPath": "C:\\Users\\leo-s\\Documents\\GitHub\\Teste_Luby\\1.0-Logica\\5CalcularDesconto\\5CalcularDesconto.csproj",
       "packagesPath": "C:\\Users\\leo-s\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leo-s\\Documents\\GitHub\\TesteLuby\\5CalcularDesconto\\obj\\",
+      "outputPath": "C:\\Users\\leo-s\\Documents\\GitHub\\Teste_Luby\\1.0-Logica\\5CalcularDesconto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leo-s\\AppData\\Roaming\\NuGet\\NuGet.Config",

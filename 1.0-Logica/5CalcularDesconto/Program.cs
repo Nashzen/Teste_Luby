@@ -23,7 +23,7 @@ namespace _5CalcularDesconto
 
          decimal resultado = valorConvertido - ((valorConvertido / 100) * porcentagemConvertido);
 
-         Console.WriteLine($"{valor} com {porcentagem} de desconto: R$ {resultado}");
+         Console.WriteLine($"R${valor} com {porcentagem}% de desconto: R${resultado}");
       }
    }
 }

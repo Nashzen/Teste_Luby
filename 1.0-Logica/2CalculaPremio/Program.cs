@@ -9,8 +9,7 @@ namespace _2CalculaPremio
          Menu();
       }
 
-
-      static void Menu()
+      public static void Menu()
       {
          Console.Clear();
 
@@ -32,6 +31,7 @@ namespace _2CalculaPremio
 
          double multiplicador = double.Parse(Console.ReadLine());
 
+         //condicional para determinar o valor do multiplicador a partir da informacao do usuario
          switch (multiplicador)
          {
             case 1: multiplicador = 1; break;
@@ -43,35 +43,40 @@ namespace _2CalculaPremio
          }
 
          Console.WriteLine("Deseja adicionar um multiplicador customizado? Caso sim, informe-o, caso nao, aperte ENTER.");
-         var multiplicadorOpcional = Console.ReadLine();
-         double? multiplicadorConvertido = null;
-         if (!string.IsNullOrEmpty(multiplicadorOpcional))
+         string multiplicadorOpcional = Console.ReadLine();
+
+         //nullable type para cumprir os requisitos do metodo
+         double? multiplicadorOpcionalConvertido;
+
+         /*caso o usuario nao informe nada, o metodo segue com o multiplicador do switch, caso ele informe um multiplicador extra, 
+         o calculo é feito a partir do multiplicador opcional*/
+         if (multiplicadorOpcional == string.Empty)
          {
-            multiplicadorOpcional = null;
+            CalculaPremio(valorPremio, multiplicador, null);
          }
          else
          {
-            multiplicadorConvertido = Convert.ToDouble(multiplicadorOpcional);
+            multiplicadorOpcionalConvertido = double.Parse(multiplicadorOpcional);
+            CalculaPremio(valorPremio, multiplicador, (double)multiplicadorOpcionalConvertido);
          }
 
-         CalculaPremio(valorPremio, multiplicador, multiplicadorConvertido);
       }
 
-      static void CalculaPremio(double? valorPremio, double tipoPremio, double? multiplicadorOpcional)
+      static void CalculaPremio(double valorPremio, double tipoPremio, double? multiplicadorOpcional)
       {
 
-         if (multiplicadorOpcional.HasValue)
-         {
-            valorPremio = valorPremio * multiplicadorOpcional;
-            Console.WriteLine($"Valor total do premio: {valorPremio}");
-         }
-         else
+         /*Caso o multiplicador adicional for nulo, o calculo é feito com base no multiplicador do 'tipoPremio'
+         senão, é feito à partir do multiplicador do 'multiplicadorOpcional'*/
+         if (multiplicadorOpcional == null)
          {
             valorPremio = valorPremio * tipoPremio;
             Console.WriteLine($"Valor total do premio: {valorPremio}");
          }
-
-
+         else
+         {
+            valorPremio = valorPremio * (double)multiplicadorOpcional;
+            Console.WriteLine($"Valor total do premio: {valorPremio}");
+         }
       }
 
    }
