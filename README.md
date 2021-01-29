@@ -14,12 +14,12 @@
 - Para executar o projeto, digite o comando ***dotnet run***.
 
 ### Interface do programa.
-![](/imagens/1) 
+![](/imagens/1.png) 
 ### Ao selecionar a opção 2, aparecerá a tela dos produtos.
-![](/imagens/2)
+![](/imagens/2.png)
 
 ### Ao selecionar o produto, adicione o dinheiro, e a compra será feita.
-![](/imagens/3)
+![](/imagens/3.png)
 
 ### No menu principal, ao selecionar a opção 3, caso algo tenha sido vendido, será mostrado nessa tela.
-![](/imagens/4)
+![](/imagens/4.png)
